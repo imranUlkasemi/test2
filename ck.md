@@ -1,5 +1,5 @@
 # Checklist
-## Project Informatio
+## Project Information
 | Check Item                               | Answer                   | Example Ans |
 | - | - | - |
 | Project / Die ID                         | Project Genesis          | ChipTop |
